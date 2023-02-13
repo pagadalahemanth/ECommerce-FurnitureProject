@@ -4,17 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e3b78b-370c-455c-a859-13480491786a" name="Changes" comment="" />
+    <list default="true" id="7eb6de00-d52e-449e-8934-b2bad839689c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/controller/FurnitureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/controller/FurnitureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/model/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/model/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/repository/FurnitureRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/repository/FurnitureRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/service/FurnitureImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/service/FurnitureImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/service/IFurnitureService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FurnitureApp/src/main/java/com/niit/FurnitureApp/service/IFurnitureService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureService/src/main/java/com/niit/FurnitureService/controller/FurnitureController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureService/src/main/java/com/niit/FurnitureService/domain/Furniture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureService/src/main/java/com/niit/FurnitureService/repository/FurnitureRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureService/src/main/java/com/niit/FurnitureService/service/FurnitureServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FurnitureService/src/main/java/com/niit/FurnitureService/service/IFurnitureService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/UserAuthenticationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/UserAuthenticationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/exception/PasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/exception/PasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/exception/UserAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/exception/UserAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/ITokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/ITokenGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/TokenGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/TokenGeneratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/java/com/niit/UserAuthentication/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAuthentication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserAuthentication/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/niit/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/niit/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2J3ExzkMlLAfdjIZjbzFPKJQyyQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J5mr7XF8UCiQgunicLXYXdZlud" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,18 +73,79 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/NIIT Preproject/ECommerce-FurnitureProject"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.UserAuthenticationApplication">
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.EurekaServer.EurekaServerApplication" />
+      <module name="EurekaServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.EurekaServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FurnitureAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.FurnitureApp.FurnitureAppApplication" />
+      <module name="FurnitureApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.FurnitureApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAuthenticationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.UserAuthentication.UserAuthenticationApplication" />
+      <module name="UserAuthentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.UserAuthentication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserAuthenticationApplication" />
+        <item itemvalue="Application.FurnitureAppApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7e3b78b-370c-455c-a859-13480491786a" name="Changes" comment="" />
-      <created>1671298618784</created>
+      <changelist id="7eb6de00-d52e-449e-8934-b2bad839689c" name="Changes" comment="" />
+      <created>1671376516629</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671298618784</updated>
+      <updated>1671376516629</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
